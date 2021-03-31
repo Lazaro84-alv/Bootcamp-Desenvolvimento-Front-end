@@ -1,1 +1,24 @@
-# DIO---Bootcamp-SPTech-Desenvolvimento-Front-end
+# Digital Innovation One---Bootcamp-SPTech-Desenvolvimento-Front-end concluindo em 31/03/2021
+
+- Lógica de programação essencial
+- Introdução ao Git e ao GitHub
+- Fundamentos de Arquitetura de Sistema
+- Criando um repositório para seus projetos inovadores
+- Programação para internet com HTML5 e CSS3
+- Construindo páginas para internet com Bootstrap
+- Arquitetura de Sistemas Avançados
+- Projetos ágeis com SCRUM
+- Programação para internet com JavaScript
+- Recriando o jogo d cobrinha com JavaScript
+- JavaScript ES6 essencial
+- Introdução a Programação com JavaScript
+- Desmistificando map, filter e reduce
+- Fundamentos aritméticos em JavaScript
+- Entendendo Promises de uma vez por todas
+- Como funciona o async/await
+- Ordenação e Filtros em JavaScript
+- Requisistando dados de uma API de Criptomoedas
+- Desenvolvimento avançado com JavaScript ES6
+- Introdução ao ReactJS
+- Práticas avançadas em projetos com ReactJS
+- Desenvolvendo uma Progressive Web Application com React para mapear os dados do Covid-19 pelo mundo.
